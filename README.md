@@ -1,3 +1,5 @@
+# To-Do List
+
 The project uses JQuery, HTML and CSS.
 Following features have been implemented:
 1. Add a new to-do item.
