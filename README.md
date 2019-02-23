@@ -1,6 +1,6 @@
 # To-Do List
 
-The project uses JQuery, HTML and CSS.
+The project uses JQuery, HTML and CSS. This is an Udemy practice project.
 Following features have been implemented:
 1. Add a new to-do item.
 2. Delete an existing to-do item.
